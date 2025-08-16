@@ -1,10 +1,10 @@
-# 📊 Tableau Analytics Portfolio
+# Tableau Analytics Portfolio
 
 This repository highlights interactive dashboards built with **Tableau**, focusing on sales performance, profitability, and business insights. Each project demonstrates data visualization, dashboard design, and analytics for decision-making.
 
 ---
 
-## 🔧 Tools & Skills
+## Tools & Skills
 - Tableau  
 - Data Visualization & Storytelling  
 - Dashboard Design  
@@ -12,7 +12,7 @@ This repository highlights interactive dashboards built with **Tableau**, focusi
 
 ---
 
-## 📂 Projects
+## Projects
 
 ### **1. Executive Sales Dashboard**
 - Analyzed U.S. sales performance by **state, category, and segment**.  
